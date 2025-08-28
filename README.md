@@ -15,10 +15,10 @@ Después de resolver estos puntos, entrenaremos y probaremos un modelo de regres
 - Sexo: F para mujeres y H para hombres.
 - Edad: Edad del estudiante en años.
 - HorasDeEstudio: Cantidad de horas de estudio:
-- - 1 = menos de 2 horas.
-- - 2 = de 2 a 5 horas.
-- - 3 = de 5 a 10 horas.
-- - 4 = más de 10 horas.
+ - 1 = menos de 2 horas.
+ - 2 = de 2 a 5 horas.
+ - 3 = de 5 a 10 horas.
+ - 4 = más de 10 horas.
 - Reprobadas: Número de materias reprobadas.
 - Internet: Si el estudiante tiene acceso a internet (yes/no).
 - Faltas: Cantidad de faltas a clases.
